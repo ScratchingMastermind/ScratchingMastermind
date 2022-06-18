@@ -9,16 +9,13 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://passivetechie.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://passivetechie.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+[<img align="left" alt="Website" width="26px" src="./images/google_chrome.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="LinkedIn" width="26px" src="./images/linkedin.svg" style="padding-right:10px;"/>][linkedin]
+[<img align="left" alt="Instagram" width="26px" src="./images/instagram.svg" style="padding-right:10px;"/>][instagram]
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jcarlosbernardo#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jcarlosbernardo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/scratchin_mastermind#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/scratchin_mastermind#gh-dark-mode-only)
+<!-- Definitions -->
 
 [website]: https://passivetechie.com/
 [website1]: https://passivetechie.com/projects/
-[youtube]: https://youtube.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/jcarlosbernardo
+[instagram]: https://instagram.com/scratchin_mastermind
