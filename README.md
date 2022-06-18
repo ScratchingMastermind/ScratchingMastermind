@@ -1,6 +1,10 @@
 # Hi there, I'm Carlos - aka [ScratchingMastermind][website] 👋
 
-[![Website](https://img.shields.io/website?label=passivetechie.com&style=for-the-badge&url=https%3A%2F%2Fpassivetechie.com)](https://passivetechie.com/)
+<center>
+
+![Website](https://img.shields.io/website?label=Passivetechie&logo=googlechrome&logoColor=44cc11&style=for-the-badge&url=https%3A%2F%2Fpassivetechie.com%2F)
+
+</center>
 
 - 🔭 I'm currently working on digitalizing all of my [projects][website1]
 - 🌱 I’m currently learning everything 🤣
