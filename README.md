@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="26px" src="./images/google_chrome.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="LinkedIn" width="26px" src="./images/linkedin.svg" style="padding-right:10px;"/>][linkedin]
-[<img align="left" alt="Instagram" width="26px" src="./images/instagram.svg" style="padding-right:10px;"/>][instagram]
+[<img align="left" alt="Website" width="22px" src="./images/google_chrome.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="./images/linkedin.svg" style="padding-right:10px;"/>][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="./images/instagram.svg" style="padding-right:10px;"/>][instagram]
 
 <!-- Definitions -->
 
