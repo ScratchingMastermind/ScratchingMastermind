@@ -17,11 +17,11 @@
 ### Latest Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Raspberry Pi NAS](https://passivetechie.com/build-a-raspberry-pi-nas/)
 - [VSCodium](https://passivetechie.com/vscodium/)
 - [Ventoy](https://passivetechie.com/ventoy/)
 - [Surface Go – Quality of Life Update – Part 2](https://passivetechie.com/surface-go-quality-of-life-update-part-2/)
 - [Surface Go Linux Installation Guide – Part 1](https://passivetechie.com/surface-go-linux-installation-guide-part-1/)
-- [Programs Install With Chocolatey – Part 2](https://passivetechie.com/programs-install-with-chocolatey-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Definitions -->
